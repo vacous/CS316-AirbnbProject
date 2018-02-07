@@ -39,5 +39,7 @@ Run the Website
 * 3.1 run the app.py by: python app.py in the terminal
 
 <img src ="https://github.com/vacous/CS316-AirbnbProject/blob/master/DemoImages/HomePage.png?raw=true"\>
+
 <img src ="https://github.com/vacous/CS316-AirbnbProject/blob/master/DemoImages/HostPage.png?raw=true"\>
+
 <img src ="https://github.com/vacous/CS316-AirbnbProject/blob/master/DemoImages/RenterPage.png?raw=true"\>
