@@ -29,7 +29,7 @@ Database set up
 </ul>
 
 * 2.4 &nbsp; create databse with name "airdb"
->	CREATE DATABASE airdb;
+>>	CREATE DATABASE airdb;
  
 
 * 2.5 &nbsp; dump the .sql file into the created databased by: psql airdb < airdb.sql in the terminal
