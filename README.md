@@ -21,7 +21,7 @@ Database set up
 <li>First login to psql by: sudo -u postgres psql in the terminal </li>
 <li>Second, create user "vagrant" with password: dbpasswd</li>
 
-> CREATE USER vagrant password "dbpasswd";
+> CREATE USER vagrant WITH PASSWORD 'dbpasswd';
 
 <li>Or, create any user you would like but remeber to change the setting in config.py</li>
 
